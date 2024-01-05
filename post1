@@ -1,0 +1,10 @@
+{
+    "name": "Anjali",
+    "job": "student",
+    "id": "331",
+    "createdAt": "2024-01-05T09:13:57.674Z"
+}
+
+
+
+post>https://reqres.in/api/users
